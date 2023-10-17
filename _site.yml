@@ -12,6 +12,6 @@ output:
 navbar:
   title: "GEOG 364 Lab Book"
   left:
-  - text: "Labs"  
-    - text: "Lab 3"
-      href: in_G364_Lab3_PointPattern.html   
+    - text: "Lab 3"  
+      href: index.html
+    
